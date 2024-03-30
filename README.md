@@ -25,7 +25,7 @@
 [`Back to top`](#Lab1)
   
 ## Lab 2 - Exploratory Data Analysis (5%)
-* Study carefully dataset Lab2x.csv.
+* Study carefully dataset [Lab2x.csv](./Lab2/Lab2_Datasets) (Group9: [Lab2d_power.csv](./Lab2/Lab2_Datasets/Lab2d_power.csv))Group9: [Lab2d_power.csv](./Lab2/Lab2_Datasets/Lab2d_power.csv).
 * Write a program (name the file Lab2x.py ) to
    1. Perform some simple exploratory data analysis to understand the dataset.
    2. Check and clean the dataset if necessary.
